@@ -12,17 +12,17 @@
           tracking the whereabouts of the person.
          
    #### About App And Its Usage:
-          ##### WELCOME PAGE:
+           WELCOME PAGE:
           The Splash Screen of the app waits for 2 seconds and directly navigates to the login page
-          ##### LOGIN ACTIVITY:
+           LOGIN ACTIVITY:
           - Phone Authentication is used for signing In
           - User can  select the country code from the drop down menu and has to enter his/her phone number.
           - OTP is sent to the users device after submitting the mobile number where the OTP is verified and navigates to the
             Profile Page
-          ##### PROFILE:
+           PROFILE:
           - User has to enter his/her personal details like Name, email, Alternate number, age, gender,state,district
           - Clicking on the Save button ,Stores the user's Personal Information in the firestore
-          ##### HOME PAGE:
+           HOME PAGE:
           - Here the application asks for the permission to access the Locaion
           - It finds the current location of the user and stores the location details in firestore
           - 4 option are present on the Home Page:
@@ -31,18 +31,18 @@
                               3.Location
                               4.SOS
            - Logout option is present on the top right corner of the activity.
-           ##### PERSONAL INFO:
+            PERSONAL INFO:
            - User's personal Info will be present here
            - user can update the info whenever required using the update button present at the bottom.
-           ##### EMERGENCY CONTACTS:
+            EMERGENCY CONTACTS:
            - 2 buttons are present in this activity
            - One to select the contacts (user has to allow the access to contacts), then it navigates to the contacts Activity of the device 
               where he can select one contact at a time 
            - user is allowed to select maximum of 5 contacts
            - and the second button to view and delete the selected contacts
-           ##### LOCATION:
+            LOCATION:
            - this activity is to view the current Location details (Latitude, Longitude, Address of current Location)
-           ##### SOS:
+            SOS:
            - when the user clicks on this ,it send sms to the emergency contacts selected by the user
            - this sms contains details of users current location at that time.
            
