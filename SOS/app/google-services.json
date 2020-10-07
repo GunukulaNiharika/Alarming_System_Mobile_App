@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "941550608330",
+    "firebase_url": "https://alarmingsystemmobileapp.firebaseio.com",
+    "project_id": "alarmingsystemmobileapp",
+    "storage_bucket": "alarmingsystemmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941550608330:android:36b8fd374bcfb2bac97933",
+        "android_client_info": {
+          "package_name": "com.example.a24assistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941550608330-3t4p8ib824t3obp6v0cgv100isf545l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a24assistance",
+            "certificate_hash": "bb334538057347f0667c515c9c0e3cefd48599dd"
+          }
+        },
+        {
+          "client_id": "941550608330-ae4iortlf7o5k4fhg2au2t9kft3iivd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRnVEBEgk44zhufZE8k_LiBC8oNauRT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941550608330-ae4iortlf7o5k4fhg2au2t9kft3iivd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941550608330:android:df90607edfb52cafc97933",
+        "android_client_info": {
+          "package_name": "com.example.assistance24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941550608330-22cv99ceui7oa3kf812jr7l464o4jl4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assistance24",
+            "certificate_hash": "229c542f4031de1021b45ce9416fcf940028b9b5"
+          }
+        },
+        {
+          "client_id": "941550608330-ae4iortlf7o5k4fhg2au2t9kft3iivd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRnVEBEgk44zhufZE8k_LiBC8oNauRT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941550608330-ae4iortlf7o5k4fhg2au2t9kft3iivd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
